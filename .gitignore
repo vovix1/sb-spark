@@ -2,3 +2,6 @@
 *.log
 *.jar
 *.idea
+*.gitignore
+target
+*.bsp
